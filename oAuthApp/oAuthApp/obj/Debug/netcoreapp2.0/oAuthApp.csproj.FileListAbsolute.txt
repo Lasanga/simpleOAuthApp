@@ -1,0 +1,11 @@
+F:\freelance\oAuthApp\oAuthApp\bin\Debug\netcoreapp2.0\oAuthApp.deps.json
+F:\freelance\oAuthApp\oAuthApp\bin\Debug\netcoreapp2.0\oAuthApp.runtimeconfig.json
+F:\freelance\oAuthApp\oAuthApp\bin\Debug\netcoreapp2.0\oAuthApp.runtimeconfig.dev.json
+F:\freelance\oAuthApp\oAuthApp\bin\Debug\netcoreapp2.0\oAuthApp.dll
+F:\freelance\oAuthApp\oAuthApp\bin\Debug\netcoreapp2.0\oAuthApp.pdb
+F:\freelance\oAuthApp\oAuthApp\obj\Debug\netcoreapp2.0\oAuthApp.csproj.CoreCompileInputs.cache
+F:\freelance\oAuthApp\oAuthApp\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+F:\freelance\oAuthApp\oAuthApp\obj\Debug\netcoreapp2.0\oAuthApp.AssemblyInfoInputs.cache
+F:\freelance\oAuthApp\oAuthApp\obj\Debug\netcoreapp2.0\oAuthApp.AssemblyInfo.cs
+F:\freelance\oAuthApp\oAuthApp\obj\Debug\netcoreapp2.0\oAuthApp.dll
+F:\freelance\oAuthApp\oAuthApp\obj\Debug\netcoreapp2.0\oAuthApp.pdb

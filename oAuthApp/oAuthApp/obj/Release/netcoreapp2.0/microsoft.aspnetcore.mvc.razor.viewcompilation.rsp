@@ -1,0 +1,15 @@
+F:\freelance\oAuthApp\oAuthApp
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=oAuthApp
+--content-root=F:\freelance\oAuthApp\oAuthApp
+--file=F:\freelance\oAuthApp\oAuthApp\Views\Account\AccessDenied.cshtml
+--file=F:\freelance\oAuthApp\oAuthApp\Views\Account\SignedOut.cshtml
+--file=F:\freelance\oAuthApp\oAuthApp\Views\Home\About.cshtml
+--file=F:\freelance\oAuthApp\oAuthApp\Views\Home\Contact.cshtml
+--file=F:\freelance\oAuthApp\oAuthApp\Views\Home\Index.cshtml
+--file=F:\freelance\oAuthApp\oAuthApp\Views\Shared\Error.cshtml
+--file=F:\freelance\oAuthApp\oAuthApp\Views\Shared\_Layout.cshtml
+--file=F:\freelance\oAuthApp\oAuthApp\Views\Shared\_LoginPartial.cshtml
+--file=F:\freelance\oAuthApp\oAuthApp\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=F:\freelance\oAuthApp\oAuthApp\Views\_ViewImports.cshtml
+--file=F:\freelance\oAuthApp\oAuthApp\Views\_ViewStart.cshtml
